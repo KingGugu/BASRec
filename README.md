@@ -1,5 +1,5 @@
 ## BASRec
-Official source code for AAAI 2025 paper: Augmenting Sequential Recommendation with Balanced Relevance and Diversity
+Official source code for AAAI 2025 paper: [Augmenting Sequential Recommendation with Balanced Relevance and Diversity](https://arxiv.org/abs/2412.08300)
 
 ## Run the Code
 
