@@ -43,7 +43,7 @@ def main():
                         help="default data augmentation types. Chosen from: reorder, substitute, random.")
 
     # model args
-    parser.add_argument("--model_name", default='M4SRec', type=str)
+    parser.add_argument("--model_name", default='BASRec', type=str)
     parser.add_argument('--max_seq_length', default=50, type=int)
     parser.add_argument("--hidden_size", type=int, default=128, help="hidden size of model")
     parser.add_argument("--embedding_size", type=int, default=64, help="hidden size of model")

@@ -43,7 +43,7 @@ def main():
                         help="default data augmentation types. Chosen from: reorder, substitute, random.")
 
     # model args
-    parser.add_argument("--model_name", default='M4SRec', type=str)
+    parser.add_argument("--model_name", default='BASRec', type=str)
     parser.add_argument("--hidden_size", type=int, default=64, help="hidden size of transformer model")
     parser.add_argument("--num_hidden_layers", type=int, default=2, help="number of layers")
     parser.add_argument('--num_attention_heads', default=2, type=int)
