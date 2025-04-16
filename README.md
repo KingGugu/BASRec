@@ -40,10 +40,13 @@ Thanks for providing efficient implementation.
 
 Please cite our paper if you use this code.
 ```
-@article{dang2024augmenting,
+@inproceedings{dang2025augmenting,
   title={Augmenting Sequential Recommendation with Balanced Relevance and Diversity},
   author={Dang, Yizhou and Zhang, Jiahui and Liu, Yuting and Yang, Enneng and Liang, Yuliang and Guo, Guibing and Zhao, Jianzhe and Wang, Xingwei},
-  journal={arXiv preprint arXiv:2412.08300},
-  year={2024}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={11},
+  pages={11563--11571},
+  year={2025}
 }
 ```
